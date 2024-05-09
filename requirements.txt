@@ -2,5 +2,5 @@ Flask
 Gunicorn
 joblib
 Pandas
-RandomForestRegressor
+scikit-learn
 CORS
