@@ -4,3 +4,4 @@ joblib
 Pandas
 scikit-learn
 flask_cors
+openpyxl
