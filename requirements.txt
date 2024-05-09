@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+joblib
+Pandas
+RandomForestRegressor
+CORS
